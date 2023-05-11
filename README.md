@@ -1,5 +1,5 @@
-# Automatic Code Formatting
+# Automatic Code Formatting - Python
 
-A collection of sample projects with automatic code formatting.
+A sample Python project with automatic code formatting.
 
-- [Python](/python): Uses [pre-commit](https://pre-commit.com) to format the code using the [Black](https://github.com/psf/black) formatter.
+It uses [pre-commit](https://pre-commit.com) to format the code using the [Black](https://github.com/psf/black) formatter.
